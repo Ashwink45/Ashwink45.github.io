@@ -1,0 +1,27 @@
+- id: "education"
+  heading: "Education"
+  items:
+    - title: "Master's in Computer Application"
+      description: "Amrita University"
+      datetime: "2024 – 2026"
+    - title: "Bachelor's in Computer Application"
+      description: "Amrita University"
+      datetime: "2021 – 2024"
+    - title: "High School"
+      description: "Vasavi Vidhyalaya"
+      datetime: "2019 – 2021"
+
+- id: "Experience"
+  heading: "Experience"
+  items:
+    - title: "Data Analyst Intern"
+      description: "Developed automated web scraping pipelines using Python and Selenium. Successfully processed and structured over 50,000 records using Pandas, significantly reducing data transformation and execution times while collaborating in an Agile development environment."
+      datetime: "2025"
+
+- id: "speaking"
+  heading: "Publications"
+  items:
+    - title: "QuLTSF: A Quantum–Classical Hybrid Approach for Bitcoin Market Movement Forecasting"
+      description: "Published in IEEE (ICICIT Conference). Developed a hybrid forecasting model combining PyTorch neural networks with variational quantum circuits using PennyLane. Processed over 70,000 hourly marketplace records, achieving lower error rates across prediction horizons compared to standard baseline models"
+      datetime: "2026"
+

@@ -1,0 +1,19 @@
+author:
+  name: Ashwin
+  role: About Me
+  bio:  A Computer Science student passionate about building practical software applications and learning machine learning development.
+  location: Kochi, India
+
+social:
+  - id: "x"
+    label: "X"
+    href: "#_"
+  - id: "github"
+    label: "GitHub"
+    href: "https://github.com/Ashwink45"
+  - id: "linkedin"
+    label: "Linkedin"
+    href: "https://www.linkedin.com/in/ashwin-k-660a672b9/"
+  - id: "email"
+    label: "Email"
+    href: "mailto:ashwinkmenon451@gmail.com"
